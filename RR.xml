@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <onyx>
-            <Filename>RR-N-v5.8.0-20170123-harpia-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170203-harpia-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
