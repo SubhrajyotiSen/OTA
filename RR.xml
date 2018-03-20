@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <harpia>
-            <Filename>RR-O-v6.0.0-20180222-harpia-Official.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180319-harpia-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/harpia/RR-O-v6.0.0-20180222-harpia-Official.zip/download</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/harpia/RR-O-v6.0.0-20180319-harpia-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
