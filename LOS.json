@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1560679577,
-      "filename": "lineage-16.0-20190616-UNOFFICIAL-whyred.zip",
-      "id": "6f5860757d16eeff0fcc18401182d420c0eb0617",
+      "datetime": 1562492469,
+      "filename": "lineage-16.0-20190707-UNOFFICIAL-whyred.zip",
+      "id": "435d5d7dd7233e065413d217f4ce145ef3b9573e",
       "romtype": "unofficial",
-      "size": 754184703,
-      "url": "https://dl.subhrajyoti.me/lineage/pie-firmware-builds/lineage-16.0-20190616-UNOFFICIAL-whyred.zip",
+      "size": 705547319,
+      "url": "https://dl.subhrajyoti.me/lineage/pie-firmware-builds/lineage-16.0-20190707-UNOFFICIAL-whyred.zip",
       "version": "16.0"
     }
   ]
